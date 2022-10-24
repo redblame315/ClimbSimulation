@@ -29,7 +29,7 @@ public class UIManager : MonoBehaviour
         {
             mainUIScreen.Focus();
         }
-            
+        Cursor.visible = true;
     }
 
     // Update is called once per frame
@@ -60,5 +60,6 @@ public class UIManager : MonoBehaviour
 
         GameManager.instance.player.GetComponent<Rigidbody>().isKinematic = true;
         NarratorDialog.instance.SetVisible(false);
+        Cursor.visible = true;
     }
 }

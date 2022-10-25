@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-/Assets/Character
+/Assets/Character/ch1
 /Library
 /Logs
 /obj

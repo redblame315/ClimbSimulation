@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-/Assets/Character/ch1/character1.Fbx
-*.png
+#/Assets/Character/ch1/character1.Fbx
+#*.png
 /Library
 /Logs
 /obj
